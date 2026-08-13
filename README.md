@@ -1,2 +1,2 @@
-# Sales-dashboard-using-power-bi
-Developed an interactive Sales Dashboard using Power BI to track sales, revenue, profit, and product performance. Used Power Query for data transformation and DAX for KPIs and calculated measures. Added interactive slicers, charts, and filters to analyze regional and product-wise sales and support data-driven decisions..
+Ecommerce Sales Dashboard using Power BI
+The E-commerce Sales Dashboards project aimed to provide comprehensive insights into e-commerce sales performance through interactive and visually appealing dashboards developed using Power BI. The project focused on analyzing and monitoring key metrics such as profit, order volume, customer demographics, product performance, and sales trends. By leveraging data from the e-commerce platform, the dashboards enabled stakeholders to make data-driven decisions, identify growth opportunities, and track the effectiveness of marketing campaigns.
